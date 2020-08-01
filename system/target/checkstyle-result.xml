@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.33">
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\annotation\Profiled.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\aspect\ProfiledAspect.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\config\SwaggerConfig.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\helper\CollectionUtils.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\helper\StringUtils.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\log\impl\LogHelperImpl.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\log\LogHelper.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\rest\AbstractController.java">
+</file>
+<file name="D:\IT\platform\platform-newswire\system\src\main\java\ru\studentsplatform\system\rest\LogController.java">
+</file>
+</checkstyle>

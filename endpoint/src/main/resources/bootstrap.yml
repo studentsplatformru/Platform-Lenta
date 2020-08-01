@@ -1,0 +1,28 @@
+server:
+  port: 8100
+
+spring:
+  application:
+    name: platform-newswire
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost/newswire
+    username: postgres
+    password: 1208
+  cloud:
+    config:
+      uri: http://localhost:8888
+  profiles:
+    active: qa
+
+
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka
+
+
+logging:
+  file:
+    name: "log"
+  config: "classpath:logback-spring.xml"

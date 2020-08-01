@@ -1,0 +1,9 @@
+ru\studentsplatform\system\config\SwaggerConfig.class
+ru\studentsplatform\system\helper\StringUtils.class
+ru\studentsplatform\system\aspect\ProfiledAspect.class
+ru\studentsplatform\system\rest\LogController.class
+ru\studentsplatform\system\helper\CollectionUtils.class
+ru\studentsplatform\system\log\LogHelper.class
+ru\studentsplatform\system\annotation\Profiled.class
+ru\studentsplatform\system\rest\AbstractController.class
+ru\studentsplatform\system\log\impl\LogHelperImpl.class

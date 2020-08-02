@@ -26,3 +26,11 @@ logging:
   file:
     name: "log"
   config: "classpath:logback-spring.xml"
+
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
